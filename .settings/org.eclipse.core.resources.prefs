@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//WebContent/views/news/list.jsp=UTF-8
+encoding//src/cn/st/dao/AdminDao.java=UTF-8
+encoding//src/cn/st/dao/NoticeDao.java=UTF-8
+encoding//src/cn/st/dao/ResultDao.java=UTF-8
+encoding//src/cn/st/web/chart/bar/BarChart1.java=UTF-8

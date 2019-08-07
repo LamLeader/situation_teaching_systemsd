@@ -1,0 +1,3 @@
+127.0.0.1:8081/situation_teaching_systemsd/index.jsp
+
+127.0.0.1:8081/situation_teaching_systemsd/views/student/register.jsp
